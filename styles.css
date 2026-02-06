@@ -68,7 +68,7 @@ body {
 /* Profile Picture Wrapper */
 .profile-pic-wrapper {
   display: inline-block;
-  transition: all 0.3s ease;
+  transition: all 0.3s ease in ease out;
 }
 /* Profile Picture */
 .profile-pic {
@@ -276,4 +276,5 @@ body {
   width: 100%;
   height: 100%;
   background: transparent;
+
 }
